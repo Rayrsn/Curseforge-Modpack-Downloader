@@ -1,5 +1,5 @@
 # Curseforge-Modpack-Downloader
- <h2 align="center"> <i> <b> A Python script which automatically download mods from a Curseforge modpack. </b> </i> </h2>
+ <h2 align="center"> <i> <b> A Python script which automatically downloads mods from a Curseforge modpack. </b> </i> </h2>
 ## Installing Dependencies 
 ⚠ Make sure you have Python 3 installed. ⚠
 
