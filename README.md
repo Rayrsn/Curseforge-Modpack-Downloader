@@ -1,11 +1,13 @@
 # Curseforge-Modpack-Downloader
  <h2 align="center"> <i> <b> A Python script which automatically downloads mods from a Curseforge modpack. </b> </i> </h2>
+ 
 ## Installing Dependencies 
 ⚠ Make sure you have Python 3 installed. ⚠
 
 ```bash
 pip install pretty-downloader
 ```
+
 ## Steps
 1. Find your desired modpack file. (Depending on your minecraft version and/or mod loader etc.)
 2. Click on download (if there is no download button and theres only install from the Curseforge app, erase `?client=y` from the button url.)
