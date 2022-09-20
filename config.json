@@ -1,6 +1,5 @@
 {
     "debug_mode": "false",
     "load_from_file": "false",
-    "manifest_location": "url or file path goes here, remember to change the load_from_file value to true if you decide to paste the file path",
-    "api-key": "your api key goes here"
+    "manifest_location": "url or file path goes here, remember to change the load_from_file valut to true if you decide to paste the file path"
 }
