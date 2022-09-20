@@ -16,3 +16,6 @@ pip install pretty-downloader
 4. You can either upload the file somewhere or copy the local path to it and paste it inside the `config.json` file from the script
 ## Running
 You can simply run the script by running `python main.py`
+
+## Questions ⁉️
+### If yall have any questions or just wanna talk, add me on [Discord](https://rayr.ml/LinkInBio) or use my username Rayr#6401 (this might change so it's better to just use the link)
